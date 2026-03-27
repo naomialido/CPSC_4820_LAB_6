@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+pillow
+groq
+python-dotenv
